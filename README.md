@@ -11,7 +11,8 @@ Hongjin Wang at  http://eeit.hnu.edu.cn/info/1506/4922.htm
 
 Please install the required environment according to the requirements
 -run
+''
 pip install -r requirements.txt
 python main.py
-
+''
 If you have your own data, just rewrite the input part of the program.
